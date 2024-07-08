@@ -1,2 +1,3 @@
-GIT is a version control system.
-GIT is NIUBEE!
+GIT is a version control systm.
+GIT is NIUBEE! Pardon?
+YELAOOOOOOOOOO!
